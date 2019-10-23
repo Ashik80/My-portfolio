@@ -1,0 +1,123 @@
+body{
+    background-color: #ccc;
+}
+
+.brand img{
+    width: 130px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    margin-left: 30px;
+}
+
+#navbarSupportedContent a:hover {
+    color: #fff;
+}
+
+#bg-img {
+    background: url(../img/iStock-664868402-600x400.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+#info {
+    padding-top: 200px;
+    margin-top: -400px;
+}
+
+#info i{
+    color: white;
+}
+
+#info span{
+    padding: 10px 20px 10px 20px;
+}
+
+#info hr{
+    margin-top: 6px;
+    border-width: 2px;
+}
+.spacing {
+    margin-bottom: 0px;
+}
+
+#education span{
+    padding: 10px 20px 10px 20px;
+}
+
+#education hr{
+    margin-top: 6px;
+    border-width: 2px;
+}
+
+#edu-info {
+    margin: 80px;
+}
+
+.boxes {
+    padding-bottom: 30px
+}
+
+#education .icon{
+    margin-top: -30px;
+    margin-bottom: 70px;
+}
+
+#icon-mod {
+    color: #18837B;
+}
+
+.header-mod {
+    color: #343A40;
+}
+
+#education {
+    padding-top: 120px;
+}
+
+.card {
+    
+}
+
+#card-mod {
+    padding: 50px;
+    margin-top: -16px;
+}
+
+#skills hr{
+    margin-top: 6px;
+    border-width: 2px;
+}
+
+#skills span{
+    padding: 10px 20px 10px 20px;
+}
+#skills {
+    padding-top: 120px;
+}
+
+#card-edit {
+    padding: 50px;
+    margin-top: -16px;
+}
+
+#card-cont {
+    padding: 50px;
+    margin-top: -16px;
+}
+#contact {
+    padding-top: 120px;
+}
+
+#contact span{
+    padding: 10px 20px 10px 20px;
+}
+
+#contact hr{
+    margin-top: 6px;
+    border-width: 2px;
+}
+
+.CV {
+    margin-left: 150px;
+}
